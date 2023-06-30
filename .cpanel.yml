@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/mipdevpc/repositories/adrian-revamp
+    - export DEPLOYPATH=/home/mipdevpc/public_html/adrian-revamp/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp -R css $DEPLOYPATH
     - /bin/cp -R images $DEPLOYPATH
