@@ -47,6 +47,12 @@ body, .unslate_co--site-inner {
   color: #fff;
 }
 
+.btn-primary{
+  background-color: #31E1F7 !important;
+  color: #191919 !important;
+  border: #31E1F7 !important;
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
