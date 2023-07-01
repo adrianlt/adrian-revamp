@@ -947,6 +947,7 @@ a, a:hover {
 }
 
 .portfolio-item img {
+  filter: grayscale(100%);
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -957,6 +958,7 @@ a, a:hover {
 }
 
 .portfolio-item:hover img {
+  filter: grayscale(0%);
   -webkit-transform: scale(1.09);
   -ms-transform: scale(1.09);
   transform: scale(1.09);
