@@ -54,6 +54,7 @@ body, .unslate_co--site-inner {
 }
 
 a {
+  color: #31E1F7;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
@@ -554,8 +555,7 @@ a, a:hover {
   width: 280px;
   overflow: auto;
   padding-top: 30px;
-  padding-bottom: 70px;
-  width: 280px;
+  padding-bottom: 70px;  
   left: 0;
   -webkit-transform: translateX(-100%);
   -ms-transform: translateX(-100%);
