@@ -37,6 +37,10 @@ body, .unslate_co--site-inner {
   background: #000;
 }
 
+i {
+  font-size: 32px;
+}
+
 ::-moz-selection {
   background: #000;
   color: #fff;
