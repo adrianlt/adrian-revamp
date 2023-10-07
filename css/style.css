@@ -714,12 +714,10 @@ a, a:hover {
 }
 
 .cover-v1 {
-  /*background-image: url("../images/bg-new.gif");*/
+  background-image: url("../images/bg-new.gif");
   background-size: cover;
   background-position: center center;
-  background-repeat: repeat;
-  width: 100%;
-  object-fit: cover; position: fixed; z-index: -99;
+  background-repeat: repeat; 
 }
 
 .cover-v1.gradient-bottom-black {
@@ -1759,6 +1757,7 @@ figure.dotted-bg:before {
 }
 
 .unslate_co--footer {
+  top: 20px;
   text-align: center;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.5);
