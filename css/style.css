@@ -488,23 +488,6 @@ a, a:hover {
   padding-bottom: 5px;
 }
 
-@media (max-width: 991.98px) {
-  .unslate_co--site-nav.scrolled {
-    display: none;
-    /*position: fixed;
-    right: 0;
-    left: 0;
-    top: 0;
-    
-    background: #fff !important;
-    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
-    padding-top: 5px;
-    padding-bottom: 5px;
-    width: 50%;*/
-  }
-}
-
 
 .unslate_co--site-nav.scrolled .burger-toggle-menu {
   top: 10px;
