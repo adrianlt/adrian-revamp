@@ -713,6 +713,12 @@ a, a:hover {
   top: -10px;
 }
 
+@media (max-width: 991.98px) {
+  .cover-v1{
+    background-image: url("../images/bg-mobile.jpg")!important;
+  }
+}
+
 .cover-v1 {
   background-image: url("../images/bg-new.gif");
   background-size: cover;
