@@ -2123,10 +2123,16 @@ span.error {
   z-index:1000;
 }
 
-
 .float:hover{
   color:#31E1F7;
 }
 .my-float{
 	margin-top:16px;
+}
+
+.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before
+{
+  margin-top: 10px;
+  line-height: 1.5 !important;
+  font-size: 25px !important;
 }
