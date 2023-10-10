@@ -696,11 +696,11 @@ a, a:hover {
   top: -10px;
 }
 
-@media (max-width: 991.98px) {
+/*@media (max-width: 991.98px) {
   .cover-v1{
     background-image: url("../images/bg-mobile.jpg")!important;
   }
-}
+}*/
 
 #background-video {
   width: 100vw;
