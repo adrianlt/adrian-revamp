@@ -696,11 +696,17 @@ a, a:hover {
   top: -10px;
 }
 
-/*@media (max-width: 991.98px) {
-  .cover-v1{
-    background-image: url("../images/bg-mobile.jpg")!important;
-  }
-}*/
+@media (max-width: 991.98px) {
+  #background-video {
+  display: none;
+}
+.cover-v1 {
+  background-image: url("../images/bg-mobile.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: repeat; 
+}
+}
 
 #background-video {
   width: 100vw;
