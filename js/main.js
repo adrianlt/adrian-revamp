@@ -183,16 +183,6 @@ var siteMenuClone = function() {
 
 }; 
 
-
-
-
-// var siteIstotope = function() {
-
-
-	  
-	
-// }
-
 var owlCarouselPlugin = function() {
 
 	$('.testimonial-slider').owlCarousel({
