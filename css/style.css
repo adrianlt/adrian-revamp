@@ -713,6 +713,7 @@ a, a:hover {
   bottom: 0; 
   z-index: -1;
   opacity: calc(60%);
+  pointer-events: none;
 }
 
 .cover-v1 {
