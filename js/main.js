@@ -183,10 +183,6 @@ var siteMenuClone = function() {
 
 }; 
 
-	var button = document.querySelector('[aria-label="Button"]');
-	console.log(button); // 👉️ button
-   
-
 var owlCarouselPlugin = function() {
 
 	$('.testimonial-slider').owlCarousel({
